@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SJKP.TypeScript</id>
+    <version>1.0.0</version>
+    <authors>SJKP</authors>
+    <owners>SJKP</owners>
+    <licenseUrl>http://sjkp.dk</licenseUrl>
+    <projectUrl>http://sjkp.dk</projectUrl>
+    <iconUrl>http://sjkp.dk</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Installs type script targets in project</description>
+    <releaseNotes>This package installs TypeScript compliation into the project file, such that ts files are compiled on build.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>TypeScript Delegate SharePoint DSF</tags>
+    <dependencies>     
+    </dependencies>
+  </metadata>
+</package>
